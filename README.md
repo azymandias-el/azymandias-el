@@ -1,16 +1,17 @@
-### Hi there 👋
+# Greetings, developers!
+I am Azlan Rafiq, self styled Azymandias. (recognise the reference?)
+As I say so, I like dragons, mobile suits, xianxia, blues/heavy metal, pretty tech ([r/unixporn](https://reddit.com/r/unixporn), anyone?).
+- I use Arch, by the way.
+- I am a proponent of complete privacy, so check out [r/degoogle](https://reddit.com/r/degoogle)
+- Currently building frontend skills, learning Vue.js.
+- Working on [azymandias-el/regoogle](https://azymandias-el.github.io/regoogle)
 
-<!--
-**azymandias-el/azymandias-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some useless badges for showing off:
 
-Here are some ideas to get you started:
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My pitifully low activity:
+
+![Oh, dear.](https://github-readme-stats.vercel.app/api?username=azymandias-el&show_icons=true&theme=transparent)
