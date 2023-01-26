@@ -3,7 +3,7 @@ I am Azlan Rafiq, self styled Azymandias. (recognise the reference?)
 As I say so, I like dragons, mobile suits, xianxia, blues/heavy metal, pretty tech ([r/unixporn](https://reddit.com/r/unixporn), anyone?).
 - I use Arch, by the way.
 - I am a proponent of complete privacy, so check out [r/degoogle](https://reddit.com/r/degoogle)
-- Currently building frontend skills, learning Vue.js.
+- I use Python, HTML/CSS/JS, and am now learning Rust.
 - Working on [azymandias-el/regoogle](https://azymandias-el.github.io/regoogle)
 
 Some useless badges for showing off:
