@@ -1,4 +1,13 @@
-# Greetings, developers!
+```rust
+use poets::PercyBShelley;
+
+fn github_readme_declare()
+{
+  PercyBShelley::quote.look_upon(my_works, ye_Mighty).and_despair("!");
+}
+```
+
+
 I am Azlan Rafiq, self styled Azymandias. (recognise the reference?)
 As I say so, I like dragons, mobile suits, xianxia, blues/heavy metal, pretty tech ([r/unixporn](https://reddit.com/r/unixporn), anyone?).
 - I use Arch, by the way.
