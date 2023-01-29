@@ -8,7 +8,7 @@ fn github_readme_declare()
 ```
 
 
-I am Azlan Rafiq, self styled Azymandias. (recognise the reference?)
+I am Azlan Rafiq, self styled Azymandias (recognise the reference?).
 As I say so, I like dragons, mobile suits, xianxia, blues/heavy metal, pretty tech ([r/unixporn](https://reddit.com/r/unixporn), anyone?).
 - I use Arch, by the way.
 - I am a proponent of complete privacy, so check out [r/degoogle](https://reddit.com/r/degoogle)
