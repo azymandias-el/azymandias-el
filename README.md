@@ -7,10 +7,9 @@ fn github_readme_declare()
 }
 ```
 
-
 I am Azlan Rafiq, self styled Azymandias (recognise the reference?).
-As I say so, I like dragons, mobile suits, xianxia, blues/heavy metal, pretty tech ([r/unixporn](https://reddit.com/r/unixporn), anyone?).
-- I use Arch, by the way.
+I like dragons, mobile suits, xianxia, blues/heavy metal, pretty tech.
+- I use NixOS, by the way. Will upload flakes and dots later.
 - I am a proponent of complete privacy, so check out [r/degoogle](https://reddit.com/r/degoogle)
 - I use Python, HTML/CSS/JS, and am now learning Rust.
 - Working on [azymandias-el/regoogle](https://azymandias-el.github.io/regoogle)
