@@ -23,4 +23,4 @@ Some useless badges for showing off:
 
 My pitifully low activity:
 
-![Oh, dear.](https://github-readme-stats.vercel.app/api?username=azymandias-el&show_icons=true&theme=transparent)
+![Oh, dear.](https://github-readme-stats.vercel.app/api?username=azymandias-el&show_icons=true&theme=nord)
