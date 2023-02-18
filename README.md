@@ -2,4 +2,4 @@
 
 My greatest insecurity is of people not recognizing my technological prowess and my elitist music taste.
 
-![Oh, dear.](https://github-readme-stats.vercel.app/api?username=zxen-xi&show_icons=true&theme=nord)
+![Oh, dear.](https://github-readme-stats.vercel.app/api?username=zxen-xi&show_icons=true&theme=tritanopia)
