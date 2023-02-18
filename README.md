@@ -1,19 +1,5 @@
-```rust
-use poets::PercyBShelley;
+[Me, me, me.](https://zxen-xi.github.io)
 
-fn github_readme_declare()
-{
-  PercyBShelley::quote.look_upon(my_works, ye_Mighty).and_despair("!");
-}
-```
+My greatest insecurity is of people not recognizing my technological prowess and my elitist music taste.
 
-I am Azlan Rafiq, self styled Azymandias (recognise the reference?).
-I like dragons, mobile suits, xianxia, blues/heavy metal, pretty tech.
-- I use NixOS, by the way. Will upload flakes and dots later.
-- I am a proponent of complete privacy, so check out [r/degoogle](https://reddit.com/r/degoogle)
-- I use Python, HTML/CSS/JS, and am now learning Rust.
-- Working on [azymandias-el/regoogle](https://azymandias-el.github.io/regoogle)
-
-My pitifully low activity:
-
-![Oh, dear.](https://github-readme-stats.vercel.app/api?username=azymandias-el&show_icons=true&theme=nord)
+![Oh, dear.](https://github-readme-stats.vercel.app/api?username=zxen-xi&show_icons=true&theme=nord)
