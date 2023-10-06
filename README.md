@@ -1,5 +1,5 @@
-[> Me, me, me.](https://zxen-xi.github.io)
+[> Me, me, me.](https://zxen.codeberg.page)
 
-My greatest insecurity is of people not recognizing my technological prowess and my elitist music taste.
+send KFC or else
 
 ![Oh, dear.](https://github-readme-stats.vercel.app/api?username=zxen-xi&show_icons=true&theme=github_dark)
